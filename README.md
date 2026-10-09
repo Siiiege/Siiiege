@@ -5,7 +5,7 @@
 - 🔭 Recently contributed to [kana-dojo](https://github.com/lingdojo/kana-dojo) (3.5k ⭐) — merged PRs & bug fixes
 - 🌱 Currently learning: vibe-coding
 - 💬 Ask me about: AI
-- ⚡ Fun fact: Lost in Toyko
+- ⚡ Fun fact: Lost in Tokyo
 
 ![](https://github-readme-stats.vercel.app/api?username=Siiiege&show_icons=true&theme=tokyonight)
 
