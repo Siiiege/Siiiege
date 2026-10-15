@@ -6,6 +6,7 @@
 
 - 🔭 Recently contributed to [kana-dojo](https://github.com/lingdojo/kana-dojo) (3.5k ⭐) — merged PRs & bug fixes
 - 🌱 Currently: hand-building a GPT from scratch (Karpathy's *Zero to Hero*) → LoRA fine-tuning, RAG, agents & evals — logged in [ai-journey](https://github.com/Siiiege/ai-journey)
+- 🧩 Built [repo-governance](https://github.com/Siiiege/repo-governance) — an agent-collaboration governance skill, evaluated on 6 real repos with clean-context subagents ([test log](https://github.com/Siiiege/repo-governance/blob/main/docs/evaluation.md))
 - 🛠️ Stack: TypeScript / Node.js · learning Python & PyTorch
 - 🎯 Next: shipping an end-to-end LLM product (data → fine-tune → API → UI)
 - 💬 Ask me about: AI
